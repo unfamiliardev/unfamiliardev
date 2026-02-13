@@ -13,9 +13,3 @@ https://github.com/unfamiliardev
 
 codeberg:
 https://codeberg.org/sidegemninja
-
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=unfamiliardev&show_icons=true)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfamiliardev&layout=compact)
