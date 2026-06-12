@@ -10,6 +10,6 @@ i spend a lot of time reading Scott Pilgrim. probably more than i should.
 if you want to talk or build something:
 ramona@scottpilgrim.wiki
 
-![unfamiliardev's Stats](https://github-readme-stats.vercel.app/api?username=unfamiliardev&theme=calm&show_icons=true&hide_border=true&count_private=true)
+[![Unfamiliar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=unfamiliarev&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
